@@ -1,0 +1,68 @@
+[
+    {
+        "sku": "TSHIRT-BLK-S",
+        "product_name": "Classic Black T-Shirt",
+        "size": "S",
+        "stock_count": 15
+    },
+    {
+        "sku": "TSHIRT-BLK-M",
+        "product_name": "Classic Black T-Shirt",
+        "size": "M",
+        "stock_count": 24
+    },
+    {
+        "sku": "TSHIRT-BLK-L",
+        "product_name": "Classic Black T-Shirt",
+        "size": "L",
+        "stock_count": 0
+    },
+    {
+        "sku": "HOODIE-GRY-M",
+        "product_name": "Essential Grey Hoodie",
+        "size": "M",
+        "stock_count": 8
+    },
+    {
+        "sku": "HOODIE-GRY-L",
+        "product_name": "Essential Grey Hoodie",
+        "size": "L",
+        "stock_count": 0
+    },
+    {
+        "sku": "JEANS-BLU-32",
+        "product_name": "Classic Blue Jeans",
+        "size": "32",
+        "stock_count": 12
+    },
+    {
+        "sku": "SNEAKER-WHT-42",
+        "product_name": "Everyday White Sneakers",
+        "size": "42",
+        "stock_count": 6
+    },
+    {
+        "sku": "DRESS-FLR-M",
+        "product_name": "Floral Summer Dress",
+        "size": "M",
+        "stock_count": 4
+    },
+    {
+        "sku": "JACKET-BLK-L",
+        "product_name": "Classic Black Jacket",
+        "size": "L",
+        "stock_count": 2
+    },
+    {
+        "sku": "BAG-BRN-OS",
+        "product_name": "Everyday Brown Backpack",
+        "size": "One Size",
+        "stock_count": 18
+    },
+    {
+        "sku": "CAP-BLK-OS",
+        "product_name": "Classic Black Cap",
+        "size": "One Size",
+        "stock_count": 0
+    }
+]
