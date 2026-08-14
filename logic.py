@@ -24,7 +24,7 @@ def process_return_info(order_id: str) -> str:
                 f"✅ **Order {clean_id} is eligible for return!**\n\n"
                 f"**Instructions:**\n"
                 f"1. Pack items: `{', '.join(order['items'])}` in original packaging.\n"
-                f"2. Print your pre-paid shipping label: [Download Label](https://example.com/return-label/{clean_id}).\n"
+                f"2. Your return label is ready to download below.\n"
                 f"3. Drop off at any authorized shipping center.\n\n"
                 f"*Refunds take 3-5 business days after receipt.*"
             )
@@ -52,3 +52,4 @@ def check_stock(product_name: str, size: str) -> str:
             return f"⚠️ Size `{size_clean}` is not available for this item. Options: {', '.join(sizes.keys())}."
     
     return f"❌ Product '{product_name}' not found in our catalog."
+   
